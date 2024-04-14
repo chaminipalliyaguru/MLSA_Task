@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/clock-650753_1280.jpg";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "desktop with clock";
 
 /**
  * Project list
@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Online Hotel Booking System",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Paramount Hotel System is an Online Hotel Booking System. Users can view availability, choose a package, select the number of rooms, and make the payment. ",
+    url: "https://github.com/chaminipalliyaguru/Hotel-Reservation-System-in-C-language-program",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Online-Clothing-System",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Customers can view cloths and buy any item easily.This system provides customer friendly service.",
+    url: "https://github.com/chaminipalliyaguru/Online-Clothing-System",
   },
   {
-    title: "My Resume Site",
+    title: "Types of cyber-attacks",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "There are many ways to attacks can be happen. So, refer those sides to your acknolegdment.",
+    url: "https://medium.com/@chaminipalliyaguru/digital-dangers-navigating-the-wild-world-of-sneaky-online-attacks-types-of-cyber-attacks-ff4167b927ab",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Tree Data Structure",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Tree data structure comes under non-linear data structure. It is a collection of entities called nodes linked together to simulate a hierarchy.",
+    url: "https://medium.com/@chaminipalliyaguru/tree-data-structure-912a72b7f2d0",
   },
 ];
 
